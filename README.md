@@ -1,4 +1,4 @@
-# Metro Hgih School Web Page
+# Metro High School Web Page
 
 Hey, this is a work in progress!
 
