@@ -1,9 +1,7 @@
-# public_html
-metrohs.com
+# Metro Hgih School Web Page
 
+Hey, this is a work in progress!
 
-l;dsjafl;ksadjglk;jasd;lkgjl;sakdjf
-;ldfkjag;lkjsadg;lkjsad;lfj
-l;askdg;lkjasd;lgkj;laskdjg;ljasdg
+Versions are constantly changing so check back frequently!
 
-What?
+:)
